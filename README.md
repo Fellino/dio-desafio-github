@@ -1,5 +1,6 @@
 # Desafio de projeto sobre Git/Github da DIO
-Repositório criado referente ao desafio de projeto.
+
+Repositório criado referente ao desafio de projeto. Será utilizado também para guardar anotações referente aos modulos do Bootcamp.
 
 ## Informação adicional
 
