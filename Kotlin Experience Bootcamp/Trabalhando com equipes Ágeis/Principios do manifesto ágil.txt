@@ -1,0 +1,12 @@
+Os principais princípios do Manifesto Ágil são:
+
+1.  Satisfação do cliente é o principal fator de sucesso.
+2.  Entregar o software o mais rápido possível.
+3.  Mudanças de requisitos são bem-vindas, mesmo no final do desenvolvimento.
+4.  Colaboração com o cliente é essencial.
+5.  Projetos devem ser gerenciados com base em comunicação face a face.
+6.  Construir projetos em torno de indivíduos motivados.
+7.  Processos ágeis devem ser usados para garantir a transparência.
+8.  A simplicidade é fundamental.
+9.  A melhor arquitetura, requisitos e design emergem de equipes auto-organizadas.
+10.  A maneira mais eficaz de transmitir informação para e entre uma equipe é através de conversas face a face.
