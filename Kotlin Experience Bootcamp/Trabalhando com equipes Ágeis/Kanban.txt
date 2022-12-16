@@ -1,0 +1,5 @@
+Kanban é uma técnica de gerenciamento de projetos que foi desenvolvida na década de 1950 pelo engenheiro japonês Taiichi Ohno. Ele foi originalmente criado como uma forma de melhorar a eficiência da produção na indústria automobilística, mas hoje é usado em uma variedade de setores, incluindo o desenvolvimento de software.
+
+A técnica Kanban se baseia em três principais práticas: visualização do fluxo de trabalho, limitação do trabalho em andamento e melhoria contínua. A visualização do fluxo de trabalho envolve criar um quadro que mostra o progresso do projeto e as tarefas em andamento. A limitação do trabalho em andamento significa que a equipe deve limitar o número de tarefas que estão sendo trabalhadas ao mesmo tempo. A melhoria contínua é a prática de buscar constantemente formas de melhorar o processo e a eficiência da equipe.
+
+O Kanban é uma abordagem flexível que se encaixa bem em projetos de software que lidam com mudanças de requisitos frequentes. Ele é frequentemente usado em conjunto com outras metodologias ágeis, como o Scrum e o XP, para garantir que as equipes entreguem valor de maneira consistente e eficiente.
