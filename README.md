@@ -1,5 +1,5 @@
-# Desafio de projeto sobre Git/Github da DIO
-Repositório criado referente ao desafio de projeto.
+# DIO - Bootcamp Kotlin Experience
+Repositório criado referente ao bootcamp de kotlin da DIO, onde irá conter os desafios de códigos feitos durante o bootcamp.
 
 ## Informação adicional
 

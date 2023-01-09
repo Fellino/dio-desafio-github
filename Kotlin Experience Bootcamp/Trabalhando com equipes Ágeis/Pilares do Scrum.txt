@@ -1,9 +1,0 @@
-Os pilares do Scrum são três: transparência, inspeção e adaptação.
-
-Transparência significa que todos os aspectos do projeto devem estar claros e visíveis para todos os membros da equipe. Isso inclui o progresso, os problemas e as soluções, bem como as expectativas e os objetivos do projeto.
-
-Inspeção significa que o progresso do projeto deve ser regularmente revisado e avaliado. Isso permite que os problemas sejam identificados e resolvidos rapidamente e que o projeto esteja sempre no caminho certo para atingir seus objetivos.
-
-Adaptação significa que a equipe deve ser capaz de se adaptar rapidamente às mudanças e aos desafios que surgem durante o projeto. Isso envolve a capacidade de mudar de direção e de se adaptar às necessidades do cliente e do mercado de maneira eficiente.
-
-Esses pilares trabalham juntos para garantir que o Scrum seja uma abordagem eficaz para o gerenciamento de projetos de software.
